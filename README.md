@@ -7,4 +7,4 @@ I am a Bot created by Abhishek Singh (https://github.com/asrgabreo , give a star
                     - /search - To get a image related to your search .</br>
 How to use: </br>
 Open your Telegram and search for bot @ohyehbaby_bot </br>
-Try  the commands specified above </br>
+And try  the commands specified above </br>
